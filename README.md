@@ -1,6 +1,6 @@
 # BackPack
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![BackPack School](https://github.com/acominf/BackPack/blob/master/BP2.png)
 
 ## Objetivo de la aplicación
 Creación de una plataforma escolar Online que cuente con los recursos necesarios para poder llevar uno o varios cursos dentro de esta plataforma.
