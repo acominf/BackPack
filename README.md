@@ -30,7 +30,7 @@ Creación de exámenes con autoevaluación.
 ![Diagrama de componentes](https://raw.githubusercontent.com/acominf/BackPack/master/BackPack.png)
 
 ### Diagrama Entidad-Relación
-Insertar imagen
+![Diagrama Entidad-Relación](https://raw.githubusercontent.com/acominf/BackPack/master/backpack%20DB.png)
 
 ### Video ilustrativo
 Insertar video
