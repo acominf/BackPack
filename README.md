@@ -1,6 +1,6 @@
 # BackPack
 
-![BackPack School](https://github.com/acominf/BackPack/blob/master/BP2.png)
+![BackPack School](https://raw.githubusercontent.com/acominf/BackPack/master/BP2.png)
 
 ## Objetivo de la aplicación
 Creación de una plataforma escolar Online que cuente con los recursos necesarios para poder llevar uno o varios cursos dentro de esta plataforma.
@@ -26,6 +26,9 @@ Entradas para que el alumno suba tarea.
 ### Funcionalidad 5
 Creación de exámenes con autoevaluación.
 
+### Diagrama UML
+(https://raw.githubusercontent.com/acominf/BackPack/master/BackPack.png)
+
 ## Autor
 El autor del proyecto es:
 - Josué Sánchez Olvera (@JosueSO)
@@ -35,9 +38,3 @@ El autor del proyecto es:
 
 ## Semestre
 - 2016-2017/II
-
-## Markdown
-El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
-
-## Temas de Jekyll
-El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
