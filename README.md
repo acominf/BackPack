@@ -33,7 +33,10 @@ Creación de exámenes con autoevaluación.
 ![Diagrama Entidad-Relación](https://raw.githubusercontent.com/acominf/BackPack/master/backpack%20DB.png)
 
 ### Video ilustrativo
-Insertar video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wdxLBLWl9Z4" frameborder="0" allowfullscreen></iframe>
+
+### BackPack School
+http://148.224.194.33/backpack
 
 ## Autor
 El autor del proyecto es:
