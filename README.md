@@ -27,7 +27,13 @@ Entradas para que el alumno suba tarea.
 Creación de exámenes con autoevaluación.
 
 ### Diagrama UML
-(https://raw.githubusercontent.com/acominf/BackPack/master/BackPack.png)
+![Diagrama de componentes](https://raw.githubusercontent.com/acominf/BackPack/master/BackPack.png)
+
+### Diagrama Entidad-Relación
+Insertar imagen
+
+### Video ilustrativo
+Insertar video
 
 ## Autor
 El autor del proyecto es:
